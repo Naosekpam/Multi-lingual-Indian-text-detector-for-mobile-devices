@@ -4,7 +4,7 @@ Detection of text in natural scene images is a challenging problem owing to its 
 
 The repository includes the code and the **labeling tool** used for labeling the image data in **YOLO Darknet** and **Pascal-VOC** format.
 
-Please cite the repository if you find it useful :
+### Please cite the repository if you find it useful :
 
 
 
