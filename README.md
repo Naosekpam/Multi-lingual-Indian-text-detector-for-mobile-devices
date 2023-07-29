@@ -8,13 +8,13 @@ The repository includes the code and the **labeling tool** used for labeling the
 
 
 
-@inproceedings{naosekpam2020multi, 
-  title={Multi-lingual Indian text detector for mobile devices},
-  author={Naosekpam, Veronica and Kumar, Naukesh and Sahu, Nilkanta},
-  booktitle={International Conference on Computer Vision and Image Processing},
-  pages={243--254},
-  year={2020},
-  organization={Springer}
+@inproceedings{naosekpam2020multi, <br />
+  title={Multi-lingual Indian text detector for mobile devices},<br />
+  author={Naosekpam, Veronica and Kumar, Naukesh and Sahu, Nilkanta},<br />
+  booktitle={International Conference on Computer Vision and Image Processing},<br />
+  pages={243--254},<br />
+  year={2020},<br />
+  organization={Springer}<br />
 }
 
 or 
