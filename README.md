@@ -7,7 +7,7 @@ The repository includes the code and the **labeling tool** used for labeling the
 ### Please cite the repository if you find it useful :
 
 
-
+```
 @inproceedings{naosekpam2020multi, <br />
   title={Multi-lingual Indian text detector for mobile devices},<br />
   author={Naosekpam, Veronica and Kumar, Naukesh and Sahu, Nilkanta},<br />
@@ -16,7 +16,7 @@ The repository includes the code and the **labeling tool** used for labeling the
   year={2020},<br />
   organization={Springer}<br />
 }
-
+```
 or 
 
 Naosekpam, Veronica, Naukesh Kumar, and Nilkanta Sahu. "Multi-lingual Indian text detector for mobile devices." International Conference on Computer Vision and Image Processing. Springer, Singapore, 2020.
